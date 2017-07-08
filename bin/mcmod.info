@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Oreganic",
+  "name": "Oreganic",
+  "description": "Adds a way to grow ores and obtain normal ores through a process.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://crystic.github.io/oreganic.html",
+  "updateUrl": "",
+  "authorList": ["Chris 'Crystic' Edwicker"],
+  "credits": "Mod creator chylex, for helping with a game breaking bug and just generally being awesome.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
